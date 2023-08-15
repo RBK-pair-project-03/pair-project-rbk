@@ -2,6 +2,7 @@ import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
 function Cards(props) {
+  console.log(props);
   return (
     <div style={{paddingTop:"120px"}}>
         {props.datas.map((e=>{
