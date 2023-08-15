@@ -4,9 +4,8 @@ import Container from 'react-bootstrap/Container';
 import Form from 'react-bootstrap/Form';
 import Nav from 'react-bootstrap/Nav';
 
-
-
 function ColorSchemesExample() {
+  
   return (
 
       <Navbar style={{backgroundColor:"black"}} data-bs-theme="dark">

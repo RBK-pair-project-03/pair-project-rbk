@@ -1,0 +1,378 @@
+[
+    {
+       
+       "gender":"female",
+       "name":"Luna",
+       "price":"24$",
+       "state":"sleepy cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"male",
+       "name":"Olivier",
+       "price":"12$",
+       "state":"sick cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"female",
+       "name":"Bella",
+       "price":"16$",
+       "state":"blind cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"male",
+       "name":"Max",
+       "price":"18$",
+       "state":"good cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"female",
+       "name":"Chloe",
+       "price":"56$",
+       "state":"nice cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"male",
+       "name":"Leo",
+       "price":"70$",
+       "state":"pretty cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"female",
+       "name":"Lucy",
+       "price":"06$",
+       "state":"baby cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"female",
+       "name":"Charlie",
+       "price":"10$",
+       "state":"baby cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"female",
+       "name":"Lily",
+       "price":"19$",
+       "state":"blind cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"male",
+       "name":"Oscar",
+       "price":"24$",
+       "state":"cuddly cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"female",
+       "name":"Mia",
+       "price":"48$",
+       "state":"cuddly cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"male",
+       "name":"Simba",
+       "price":"120$",
+       "state":"cool Cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"female",
+       "name":"Sophie",
+       "price":"145$",
+       "state":"cool Cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"male",
+       "name":"Jack",
+       "price":"68$",
+       "state":"cool Cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"male",
+       "name":"Laster",
+       "price":"20$",
+       "state":"lazy cat",
+       "imageUrl":"",
+       "category":"cat"
+   }, {
+       
+       "gender":"Male",
+       "name":"Cooper",
+       "price":"60$",
+       "state":"trained dog",
+       "imageUrl":"",
+       "category":"dog"
+   }, {
+       "gender":"Male",
+       "name":"Bentley",
+       "price":"68$",
+       "state":"trained dog",
+       "imageUrl":"78$",
+       "category":"dog"
+   }, {
+       "gender":"Male",
+       "name":"Buddy",
+       "price":"85$",
+       "state":"trained dog",
+       "imageUrl":"92$",
+       "category":"dog"
+   }, {
+       "gender":"Male",
+       "name":"Zeus",
+       "price":"175$",
+       "state":"trained dog",
+       "imageUrl":"",
+       "category":"dog"
+   }, {
+       "gender":"Male",
+       "name":"Bear",
+       "price":"284$",
+       "state":"trained dog",
+       "imageUrl":"",
+       "category":"dog"
+   }, {
+       "gender":"Male",
+       "name":"Finn",
+       "price":"194$",
+       "state":"trained dog",
+       "imageUrl":"",
+       "category":"dog"
+   }, {
+       "gender":"Male",
+       "name":"Cooper",
+       "price":"324$",
+       "state":"trained dog",
+       "imageUrl":"",
+       "category":"dog"
+   }, {
+       "gender":"Male",
+       "name":"Milo",
+       "price":"315$",
+       "state":"trained dog",
+       "imageUrl":"",
+       "category":"dog"
+   }, {
+       "gender":"Male",
+       "name":"Toby",
+       "price":"140$",
+       "state":"trained dog",
+       "imageUrl":"",
+       "category":"dog"
+   }, {
+       "gender":"female",
+       "name":"Layka",
+       "price":"68$",
+       "state":"trained dog",
+       "imageUrl":"",
+       "category":"dog"
+   }, {
+       "gender":"female",
+       "name":"Styfanny",
+       "price":"80$",
+       "state":"trained dog",
+       "imageUrl":"",
+       "category":"dog"
+   }, {
+       "gender":"female",
+       "name":"spyla",
+       "price":"57$",
+       "state":"trained dog",
+       "imageUrl":"",
+       "category":"dog"
+   }, {
+       "gender":"female",
+       "name":"sanawnaw",
+       "price":"104$",
+       "state":"trained dog",
+       "imageUrl":"",
+       "category":"dog"
+   }, {
+       "gender":"female",
+       "name":"sniwniw",
+       "price":"147$",
+       "state":"trained dog",
+       "imageUrl":"",
+       "category":"dog"
+   }, {
+       "gender":"female",
+       "name":"skyfa",
+       "price":"321$",
+       "state":"trained dog",
+       "imageUrl":"khobza",
+       "category":"dog"
+   }, {
+       "ProductName":"cat Croquet",
+       "price":"50$",
+       "imageUrl":"",
+       "category":"food"
+   }, {
+       "ProductName":"cat Croquet",
+       "price":"60$",
+       "imageUrl":"",
+       "category":"food"
+   }, {
+       "ProductName":"cat Croquet",
+       "price":"80$",
+       "imageUrl":"",
+       "category":"food"
+   }, {
+       "ProductName":"cat Croquet",
+       "price":"90$",
+       "imageUrl":"",
+       "category":"food"
+   },
+   {
+     "ProductNname":"cat Croquet",
+       "price":"120$",
+       "imageUrl":"",
+       "category":"food"
+   },
+   {
+     "ProductNname":"dog Croquet",
+       "price":"150$",
+       "imageUrl":"",
+       "category":"food"
+   }, {
+       "ProductName":"dog Croquet",
+       "price":"165$",
+       "imageUrl":"",
+       "category":"food"
+   }, {
+       "ProductName":"dog Croquet",
+       "price":"178$",
+       "imageUrl":"",
+       "category":"food"
+   }, {
+       "ProductName":"dog Croquet",
+       "price":"197$",
+       "imageUrl":"",
+       "category":"food"
+   }, {
+       "ProductName":"dog Croquet",
+       "price":"214$",
+       "imageUrl":"",
+       "category":"food"
+   }, {
+       "ProductName":"dog Croquet",
+       "price":"79$",
+       "imageUrl":"",
+       "category":"food"
+   }, {
+       "ProductName":"dog Croquet",
+       "price":"68$",
+       "imageUrl":"",
+       "category":"food"
+   }, {
+       "ProductName":"dog Croquet",
+       "price":"98$",
+       "imageUrl":"",
+       "category":"food"
+   }, {
+       "ProductName":"dog Croquet",
+       "price":"120$",
+       "imageUrl":"",
+       "category":"food"
+   }, {
+       "ProductName":"dog collar",
+       "price":"14$",
+       "imageUrl":"",
+       "category":"accesories"
+   }, {
+       "ProductName":"cat collar",
+       "price":"16$",
+       "imageUrl":"",
+       "category":"accesories"
+   }, {
+       "ProductName":"dog collar",
+       "price":"17$",
+       "imageUrl":"",
+       "category":"accesories"
+   },
+   {
+     "ProductNname":"cat collar",
+       "price":"21$",
+       "imageUrl":"",
+       "category":"accesories"
+   },
+   {
+     "ProductNname":"dog collar",
+       "price":"26$",
+       "imageUrl":"",
+       "category":"accesories"
+   }, {
+       "ProductName":"catcollar",
+       "price":"32$",
+       "imageUrl":"",
+       "category":"accesories"
+   }, {
+       "ProductName":"",
+       "price":"14$",
+       "imageUrl":"",
+       "category":"accesories"
+   }, {
+       "ProductName":"",
+       "price":"18$",
+       "imageUrl":"",
+       "category":"accesories"
+   }, {
+       "ProductName":"dog Home",
+       "price":"19$",
+       "imageUrl":"",
+       "category":"accesories"
+   }, {
+       "ProductName":"cat Home",
+       "price":"21$",
+       "imageUrl":"",
+       "category":"accesories"
+   }, {
+       "ProductName":"cat Home",
+       "price":"29$",
+       "imageUrl":"",
+       "category":"accesories"
+   }, {
+       "ProductName":"foodie puppies",
+       "price":"38$",
+       "imageUrl":"",
+       "category":"accesories"
+   }, {
+       "ProductName":"foodie puppies",
+       "price":"45$",
+       "imageUrl":"",
+       "category":"accesories"
+   }, {
+       "ProductName":"foodie puppies",
+       "price":"41$",
+       "imageUrl":"",
+       "category":"accesories"
+   }, {
+       "ProductName":"dog Home",
+       "price":"56$",
+       "imageUrl":"",
+       "category":"accesories"
+   }
+]
