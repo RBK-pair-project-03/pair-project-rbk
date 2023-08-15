@@ -4,20 +4,20 @@ import Card from 'react-bootstrap/Card';
 function Cards(props) {
   return (
     <div style={{paddingTop:"120px"}}>
-        {/* {props.data.map((e=>{
-            return( */}
+        {props.datas.map((e=>{
+            return(
    <Card style={{ width: '18rem' }}>
-   <Card.Img variant="top" src="holder.js/100px180" />
+   <Card.Img variant="top" src={e.imageUrl} />  
    <Card.Body>
-     <Card.Title>card title</Card.Title>
-     <Card.Text>
-       Some quick example text to build on the card title and make up the
-       bulk of the card's content.
-     </Card.Text>
-     <Button variant="primary">Go somewhere</Button>
+     <Card.Title>{e.name}</Card.Title>
+     <Card.Text>{e.gender} {e.category}</Card.Text>
+     <Card.Text>{e.state}</Card.Text>
+     <Card.Text>price: {e.price}</Card.Text>
+     <Button variant="primary">Buy</Button>
    </Card.Body>
  </Card>
-        {/* // )}))} */}
+            )}))
+            }
     </div>
   );
 }

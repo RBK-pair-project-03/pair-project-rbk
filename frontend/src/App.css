@@ -1,0 +1,88 @@
+.menu-item{
+    font-size: 22px;
+    border-bottom: 1px solid black;
+    font-size: bolder;
+    width:100%;
+    padding: 4px;
+    margin-left: 6px;
+  }
+  .menu-item:hover{
+    font-size: 25px;
+  
+    font-size: bolder;
+    color:white;
+    background-color:rgb(255, 255, 255);
+    padding:5px;
+    cursor: pointer;
+  
+  }
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 28px;
+    border-bottom: 1px solid rgb(249, 243, 243);
+    height:40px
+  }
+  .cart-item:hover{
+    color :white;
+    background-color: #000000;
+    cursor: pointer;
+  }
+  
+  .cart-item span {
+    font-weight: bold;
+    margin-top: -10px;
+  }
+  
+  h3 {
+    margin-top: 15%;
+    color: green;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-left: -40%;
+    margin-top: -15px;
+    background-color: #295f0c;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: black;
+    color: white;
+  }
+
+  .cart-list-button:hover{
+    background-color: white;
+    color:black
+  }
+  
+  .cart-list{
+    width: 700px;
+    height: 500px;
+    border-radius: 15px;
+    background-color: #000000;
+    margin-top: 12%;
+    margin-bottom: 15%;
+    margin-left: 28%;
+  }
+
+  .d{
+   margin-left: 38%;
+   margin-top: 12%;
+  }
+
+  .mdcart{
+    padding-top: 10%;
+  }
+
+  .mcart{
+    margin-top: -7%;
+  }
