@@ -5,6 +5,7 @@ import Section from './section';
 import Cards from './Cards';
 import axios from 'axios'
 import CartList from './CartList';
+import Search from './search';
 
 function App() {
 
@@ -34,6 +35,18 @@ function App() {
       console.log(err)
     })
   },[trigger])
+  
+  const Seearch = (terms) => {
+    if (!terms) {
+      setListView([...data]); // Reset to the original fetched data
+    } else {
+      setListView(
+        data.filter((e) =>
+          e.name.toLowerCase().includes(terms.toLowerCase())
+        )
+      );
+    }
+  };
 
   const toggleMenu = ()=> {
     setMenuView(!menuView)
@@ -49,6 +62,7 @@ function App() {
 
   return (
     <div>
+    <span> {view === "productList" && <Search stal={Seearch} />}</span>
     <Navbar c={switchView}/>
     <Section />
     {view ==="cart" && <CartList/>} 
