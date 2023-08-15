@@ -1,9 +1,0 @@
-.img{
-    min-height: 60vh;
-    /* background-image: url("https://i.pinimg.com/564x/3a/2a/d5/3a2ad5ac307aa01437e2d8c6262a8372.jpg"); */
-    background-color: rgb(27, 17, 17);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    image-rendering: auto;
-}
