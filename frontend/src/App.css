@@ -1,6 +1,6 @@
 .menu-item{
     font-size: 22px;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid rgb(255, 255, 255);
     font-size: bolder;
     width:100%;
     padding: 4px;
@@ -10,7 +10,7 @@
     font-size: 25px;
   
     font-size: bolder;
-    color:white;
+    color:rgb(0, 0, 0);
     background-color:rgb(255, 255, 255);
     padding:5px;
     cursor: pointer;

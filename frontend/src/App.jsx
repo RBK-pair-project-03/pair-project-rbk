@@ -5,12 +5,13 @@ import Section from './section';
 import Cards from './Cards';
 import axios from 'axios'
 import CartList from './CartList';
+import Category from './category';
 
 function App() {
 
   const [menuView, setMenuView] = useState(false);
-  const [view,setView] = useState("productList");
-  const [oneProduct,setOneProduct]=useState({});
+  const [view,setView] = useState("Allcarts");
+  const [oneCard,setOneCard]=useState({});
   const [trigger,setTrigger]=useState({});
   const [data,setData]=useState([]);
   const[dog,setDog]=useState([]);
@@ -42,18 +43,19 @@ function App() {
     setView(x)
   }
 
-  const stal=(obj)=>{
+  const one=(obj)=>{
     setOneProduct(obj)
     setView("detail")
   }
 
   return (
     <div>
-    <Navbar c={switchView}/>
+    <Navbar c={switchView} toggle={toggleMenu}/>
     <Section />
+    {view === "category" && <Category /> }
     {view ==="cart" && <CartList/>} 
-    {view === "detail" && <ProductDetails onepostD={oneProduct}/>} 
-    {view === "productList" && <Cards one={stal} datas={data} /> }
+    {view === "detail" && <ProdCart oneCard={oneCard}/>} 
+    {view === "Allcarts" && <Cards one={one} datas={data} /> }
     </div>
   )
 }
